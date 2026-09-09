@@ -1,0 +1,124 @@
+[
+  {
+    "slug": "ridge-runner-og",
+    "name": "Ridge Runner OG",
+    "category": "Tenis",
+    "price": 890,
+    "colorway": "Bone / Lima",
+    "sizes": [
+      "38",
+      "39",
+      "40",
+      "41",
+      "42",
+      "43"
+    ],
+    "status": "Disponible",
+    "description": "Silueta retro de correr con entresuela reciclada y malla transpirable. Edición de lanzamiento."
+  },
+  {
+    "slug": "vector-low",
+    "name": "Vector Low",
+    "category": "Tenis",
+    "price": 760,
+    "colorway": "Off-White / Negro",
+    "sizes": [
+      "37",
+      "38",
+      "39",
+      "40",
+      "41"
+    ],
+    "status": "Pocas unidades",
+    "description": "Perfil bajo, cuero vegano y suela de goma vulcanizada."
+  },
+  {
+    "slug": "coach-jacket",
+    "name": "Coach Jacket Ligera",
+    "category": "Ropa",
+    "price": 540,
+    "colorway": "Verde Musgo",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "status": "Disponible",
+    "description": "Cortavientos con forro de malla y bolsillo interior con cierre."
+  },
+  {
+    "slug": "heavyweight-tee",
+    "name": "Heavyweight Tee",
+    "category": "Ropa",
+    "price": 220,
+    "colorway": "Crudo",
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "status": "Disponible",
+    "description": "Algodón de 240 g/m², corte relajado, cuello reforzado."
+  },
+  {
+    "slug": "cargo-pant",
+    "name": "Cargo Pant Utility",
+    "category": "Ropa",
+    "price": 480,
+    "colorway": "Caqui",
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36"
+    ],
+    "status": "Pocas unidades",
+    "description": "Six bolsillos, tiro medio, tela ripstop resistente al agua."
+  },
+  {
+    "slug": "trail-mid",
+    "name": "Trail Mid GTX",
+    "category": "Tenis",
+    "price": 980,
+    "colorway": "Grafito / Naranja",
+    "sizes": [
+      "39",
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "status": "Agotado",
+    "description": "Bota media impermeable con suela de agarre multiterreno."
+  },
+  {
+    "slug": "canvas-tote",
+    "name": "Canvas Tote Bag",
+    "category": "Accesorios",
+    "price": 150,
+    "colorway": "Natural",
+    "sizes": [
+      "Única"
+    ],
+    "status": "Disponible",
+    "description": "Lona de 16 oz, asas reforzadas, bolsillo interior."
+  },
+  {
+    "slug": "wool-cap",
+    "name": "Wool Blend Cap",
+    "category": "Accesorios",
+    "price": 190,
+    "colorway": "Negro",
+    "sizes": [
+      "Única"
+    ],
+    "status": "Disponible",
+    "description": "Gorra de 6 paneles en mezcla de lana, cierre ajustable."
+  }
+]
